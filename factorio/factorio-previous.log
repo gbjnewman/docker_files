@@ -1,0 +1,42 @@
+   0.000 2025-03-25 12:21:32; Factorio 2.0.42 (build 82066, linux64, headless, space-age)
+   0.000 Operating system: Linux
+   0.000 Program arguments: "/opt/factorio/bin/x64/factorio" "--create" "/factorio/saves/_autosave1.zip" "--map-gen-settings" "/factorio/config/map-gen-settings.json" "--map-settings" "/factorio/config/map-settings.json" 
+   0.000 Config path: /opt/factorio/config/config.ini
+   0.000 Read data path: /opt/factorio/data
+   0.000 Write data path: /factorio [392294/420982MB]
+   0.000 Binaries path: /opt/factorio/bin
+   0.008 System info: [CPU: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz, 8 cores, RAM: 15828 MB]
+   0.008 Environment: DISPLAY=<unset> WAYLAND_DISPLAY=<unset> DESKTOP_SESSION=<unset> XDG_SESSION_DESKTOP=<unset> XDG_CURRENT_DESKTOP=<unset> SDL_VIDEODRIVER=<unset> __GL_FSAA_MODE=<unset> __GL_LOG_MAX_ANISO=<unset> __GL_SYNC_TO_VBLANK=<unset> __GL_SORT_FBCONFIGS=<unset> __GL_YIELD=<unset>
+   0.009 Running in headless mode
+   0.009 Audio is disabled
+   0.010 Info ModManager.cpp:444: FeatureFlag expansion-shaders = true
+   0.010 Info ModManager.cpp:444: FeatureFlag freezing = true
+   0.010 Info ModManager.cpp:444: FeatureFlag quality = true
+   0.010 Info ModManager.cpp:444: FeatureFlag rail-bridges = true
+   0.010 Info ModManager.cpp:444: FeatureFlag segmented-units = true
+   0.010 Info ModManager.cpp:444: FeatureFlag space-travel = true
+   0.010 Info ModManager.cpp:444: FeatureFlag spoiling = true
+   0.013 Loading mod core 0.0.0 (data.lua)
+   0.025 Loading mod base 2.0.42 (data.lua)
+   0.159 Loading mod elevated-rails 2.0.42 (data.lua)
+   0.180 Loading mod quality 2.0.42 (data.lua)
+   0.193 Loading mod space-age 2.0.42 (data.lua)
+   0.391 Loading mod base 2.0.42 (data-updates.lua)
+   0.406 Loading mod quality 2.0.42 (data-updates.lua)
+   0.428 Loading mod space-age 2.0.42 (data-updates.lua)
+   0.513 Checksum for core: 931939137
+   0.513 Checksum of base: 3983563817
+   0.513 Checksum of elevated-rails: 6715099
+   0.513 Checksum of quality: 2058135058
+   0.513 Checksum of space-age: 2335132001
+   0.897 Prototype list checksum: 2053221192
+   0.960 Info PlayerData.cpp:66: Local player-data.json unavailable
+   0.960 Info PlayerData.cpp:71: Cloud player-data.json unavailable
+   0.961 Factorio initialised
+   0.961 Info Main.cpp:794: Creating new map /factorio/saves/_autosave1.zip
+   0.968 Blueprint storage "blueprint-storage-2.dat" was not found, trying to load previous version storage "blueprint-storage.dat"
+   2.080 Loading level.dat: 599618 bytes.
+   2.080 Info Scenario.cpp:153: Map version 2.0.42-4
+   2.093 Blueprint storage "blueprint-storage-2.dat" was not found, trying to load previous version storage "blueprint-storage.dat"
+   2.096 Checksum for script __level__/control.lua: 3998407281
+   2.196 Goodbye
